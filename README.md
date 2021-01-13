@@ -14,4 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-https://dev.azure.com/okancasta/calculator/_apis/build/status/okancasta.calculator?branchName=refs%2Fpull%2F1%2Fmerge
+[![Build Status](https://dev.azure.com/okancasta/calculator/_apis/build/status/okancasta.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/okancasta/calculator/_build/latest?definitionId=2&branchName=refs%2Fpull%2F1%2Fmerge)
